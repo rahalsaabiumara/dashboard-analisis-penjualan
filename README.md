@@ -1,6 +1,6 @@
 # Proyek Analisis Data Penjualan — Associate Data Analyst
 
-Proyek ini menjawab studi kasus "Soal Pratik Skema Analis Data Muda" menggunakan dataset
+Proyek ini menjawab studi kasus untuk menyediakan insight berbasis data dari penjualan menggunakan dataset
 `dataset_penjualan_kotor.csv`.
 
 ## Isi Folder
